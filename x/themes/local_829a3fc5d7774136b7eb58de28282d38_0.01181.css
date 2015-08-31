@@ -1,0 +1,536 @@
+@media only screen and (min-width: 768px) and (max-width: 959px){
+h1 { font-family: "Playfair Display", serif;font-size: 32px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+h2 { font-family: "Playfair Display", serif;font-size: 28px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+h3 { font-family: "Playfair Display", serif;font-size: 22px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+h4 { font-family: "Playfair Display", serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #9A9A9A;background-color: transparent;text-align: left; }
+h5 { font-family: "Playfair Display", serif;font-size: 13px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+h6 { font-family: "Playfair Display", serif;font-size: 12px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+h6.caption { font-family: Verdana, sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent;line-height: 14px; }
+p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left;line-height: 15px; }
+a, a:link { text-decoration: none;color: #000000; }
+a:visited { text-decoration: none;color: #000000; }
+a:hover { text-decoration: none;color: #6886c0; }
+a:active { text-decoration: none;color: #415b8e; }
+.bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.content p{undefined;undefined;}
+.bislr_grid_container_outer.contact1_Outer1{margin-left: 0; margin-right: 0; margin-bottom: 0;}
+.areaB39579F88C50421F9E15D55399F51E05{height: 265px;min-height: 265px;max-height: 265px;}
+.area.aside-tags-content-editable .blog-block .blog_heading{margin-top: 0; margin-left: 0; margin-right: 0; margin-bottom: 10px;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: bold;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .post-meta{font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .post-meta .post-date{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .post-meta .post-author a{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .post-meta .post-author a:hover{font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: underline;color: darkgrey;background-color: transparent;text-align: left;}
+.area.aside-tags-content-editable .blog-block .post-meta .post-author a:active{font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: underline;color: grey;background-color: transparent;text-align: left;}
+.area.aside-tags-content-editable .blog-block .blog-image{font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .blog-content{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .post_sns{font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .pagination{font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .pagination .newer-post{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .pagination .newer-post:hover{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: underline;color: black;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .pagination .newer-post:active{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: underline;color: black;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .pagination .older-post{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;float: right;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .pagination .older-post:hover{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;float: right;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .pagination .older-post:active{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;float: right;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .tags-header{margin-top: 8px; margin-left: 0; margin-right: 4px; margin-bottom: 10px;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .blog-tag{margin:10px 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.home_3_e04_edit form.bislr-form{margin:0 auto;padding: 0;}
+.area.home_3_e04_edit .bislr-form .text input{background-color: #ffffff;}
+.area.home_3_e04_edit .bislr-form .textarea textarea{background-color: #ffffff;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail.grid .bislr_app.feature{margin-top: 5px; margin-left: 0; margin-right: 0; margin-bottom: 0px;padding-top: 0; padding-left: 0; padding-right: 0; padding-bottom: 0px;border-bottom:0px solid #e0e0e0;font-style: normal;text-decoration: none;background-color: transparent;text-align: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-posts-head-editable .blog_detail .title h2{margin:0px auto;font-size: 15px;font-weight: normal;color: #516CA1;}
+.area.aside-posts-head-editable .blog_detail .title h2:hover{text-decoration: underline;}
+.area.aside-posts-head-editable .blog_detail .title h2:active{text-decoration: underline;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.date{color: #8f8f8f;display: none;min-height: 20px;}
+.area.aside-posts-head-editable .blog_detail .date .post-meta{color: #8f8f8f;}
+.area.aside-posts-head-editable .blog_detail .date .post-meta .post-author a{color: inherit;}
+.area.aside-posts-head-editable .blog_detail .date .post-meta .post-author a:hover{text-decoration: underline;}
+
+.area.aside-posts-head-editable .blog_detail .date .post-meta .post-commentscount a{color: inherit;}
+.area.aside-posts-head-editable .blog_detail .date .post-meta .post-commentscount a:hover{text-decoration: underline;}
+
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap .bislr-user-image{display: none;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.content{display: none;}
+
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.tags{display: none;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.tags p{margin-top: 8px; margin-left: 0; margin-right: 4px; margin-bottom: 10px;padding: 0;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;width: 100%;min-height: auto;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.tags a{font-size: 14px;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.social-containter{margin:10px 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.social{margin:0 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;max-width: 428px;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.comments-container{margin-top: 10px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.comments{margin:0 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;width: auto;min-height: auto;max-width: 498px;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app.pagination{margin:20px 0;padding: 0;font-family: "Open Sans", sans-serif;color: #8f8f8f;display: none;width: auto;min-height: auto;zoom: 1;zoom: 1;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app.pagination:before{ content: " "; display: table; }
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app.pagination:after{ content: " "; display: table; clear: both; }
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app.pagination .newer-post{margin: 0;padding: 0;font-size: 18px;font-weight: bold;text-decoration: none;color: inherit;text-align: left;float: right;width: auto;min-height: auto;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app.pagination .newer-post:hover{text-decoration: underline;}
+
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app.pagination .older-post{font-size: 18px;font-weight: bold;color: inherit;float: left;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app.pagination .older-post:hover{text-decoration: underline;}
+
+.area.aside-posts-content-editable bislr_app_view.blog_detail.grid{margin:0px auto;display: none;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail.grid .bislr_app.feature{margin-top: 5px; margin-left: 0; margin-right: 0; margin-bottom: 0px;padding-top: 0; padding-left: 0; padding-right: 0; padding-bottom: 0px;border-bottom:0px solid #e0e0e0;font-style: normal;text-decoration: none;background-color: transparent;text-align: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-posts-content-editable .blog_detail .title h2{margin:0px auto;font-size: 14px;color: #516CA1;display: none;}
+.area.aside-posts-content-editable .blog_detail .title h2:hover{text-decoration: underline;}
+.area.aside-posts-content-editable .blog_detail .title h2:active{text-decoration: underline;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.date{color: #8f8f8f;display: none;min-height: 20px;}
+.area.aside-posts-content-editable .blog_detail .date .post-meta{color: #8f8f8f;}
+.area.aside-posts-content-editable .blog_detail .date .post-meta .post-author a{color: inherit;}
+.area.aside-posts-content-editable .blog_detail .date .post-meta .post-author a:hover{text-decoration: underline;}
+
+.area.aside-posts-content-editable .blog_detail .date .post-meta .post-commentscount a{color: inherit;}
+.area.aside-posts-content-editable .blog_detail .date .post-meta .post-commentscount a:hover{text-decoration: underline;}
+
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap .bislr-user-image{display: none;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.content{display: none;}
+
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.tags{display: block;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.tags p{margin-top: 0px; margin-left: 0; margin-right: 4px; margin-bottom: 0px;padding: 0;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;width: 100%;min-height: auto;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.tags a{font-size: 14px;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.social-containter{margin:10px 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.social{margin:0 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;max-width: 428px;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.comments-container{margin-top: 10px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.comments{margin:0 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;width: auto;min-height: auto;max-width: 498px;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app.pagination{margin:20px 0;padding: 0;font-family: "Open Sans", sans-serif;color: #8f8f8f;display: none;width: auto;min-height: auto;zoom: 1;zoom: 1;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app.pagination:before{ content: " "; display: table; }
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app.pagination:after{ content: " "; display: table; clear: both; }
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app.pagination .newer-post{margin: 0;padding: 0;font-size: 18px;font-weight: bold;text-decoration: none;color: inherit;text-align: left;float: right;width: auto;min-height: auto;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app.pagination .newer-post:hover{text-decoration: underline;}
+
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app.pagination .older-post{font-size: 18px;font-weight: bold;color: inherit;float: left;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app.pagination .older-post:hover{text-decoration: underline;}
+
+.area.area4A492E5BA914461FB0A2C210CAD68C3D h1 { font-family: "Playfair Display", serif;font-size: 60px;letter-spacing: 1px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left;text-transform: uppercase; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D h2 { font-family: Lato, sans-serif;font-size: 42px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D h3 { font-family: Lato, sans-serif;font-size: 32px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D h4 { font-family: "Open Sans", sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D h5 { font-family: Lato, sans-serif;font-size: 16px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D h6 { font-family: Lato, sans-serif;font-size: 14px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D h6.caption { font-family: "Open Sans", sans-serif;font-size: 11px;font-weight: bold;font-style: italic;text-decoration: none;color: #8f8f8f;background-color: transparent; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D p { font-family: "Open Sans", sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: #8f8f8f;background-color: transparent;text-align: left; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D a, .area.area4A492E5BA914461FB0A2C210CAD68C3D a:link { text-decoration: none;color: #516ca1; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D a:visited { text-decoration: none;color: #516ca1; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D a:hover { text-decoration: none;color: #6886c0; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D a:active { text-decoration: none;color: #415b8e; }
+.area.area020CC5867F16440591465D4E5DB987D5 h1 { font-family: "Playfair Display", serif;font-size: 60px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left;text-transform: uppercase; }
+.area.area020CC5867F16440591465D4E5DB987D5 h2 { font-family: Lato, sans-serif;font-size: 42px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area020CC5867F16440591465D4E5DB987D5 h3 { font-family: Lato, sans-serif;font-size: 32px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area020CC5867F16440591465D4E5DB987D5 h4 { font-family: "Open Sans", sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area020CC5867F16440591465D4E5DB987D5 h5 { font-family: Lato, sans-serif;font-size: 16px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area020CC5867F16440591465D4E5DB987D5 h6 { font-family: Lato, sans-serif;font-size: 14px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.area020CC5867F16440591465D4E5DB987D5 h6.caption { font-family: "Open Sans", sans-serif;font-size: 11px;font-weight: bold;font-style: italic;text-decoration: none;color: #8f8f8f;background-color: transparent; }
+.area.area020CC5867F16440591465D4E5DB987D5 p { font-family: "Open Sans", sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: #8f8f8f;background-color: transparent;text-align: left; }
+.area.area020CC5867F16440591465D4E5DB987D5 a, .area.area020CC5867F16440591465D4E5DB987D5 a:link { text-decoration: none;color: #000000; }
+.area.area020CC5867F16440591465D4E5DB987D5 a:visited { text-decoration: none;color: #000000; }
+.area.area020CC5867F16440591465D4E5DB987D5 a:hover { text-decoration: none;color: #000000; }
+.area.area020CC5867F16440591465D4E5DB987D5 a:active { text-decoration: none;color: #000000; }
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu{margin-top: 0px; margin-left: 10px; margin-right: 10px; margin-bottom: 0;padding-top: 0; padding-left: 0; padding-right: 0; padding-bottom: 0;background-color: transparent;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;text-align: left;float: left;list-style: none;list-style-type: none;width: 600px;min-height: 10px;zoom: 1;zoom: 1;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu:before{ content: " "; display: table; }
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu:after{ content: " "; display: table; clear: both; }
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li.mobile-activate{display: none;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li{margin-top: 0; margin-left: 24px; margin-right: 0; margin-bottom: 0;padding-top: 0; padding-left: 0; padding-right: 7.5px; padding-bottom: 0;background-color: transparent;float: left;list-style: none;list-style-type: none;display: block;position: relative;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li a{background-color: transparent;font-family: Lato, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: #CDCDCD;text-align: left;display: block;line-height: 15px;text-transform: uppercase;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li a:hover{color: #989898;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li a:active{color: #989898;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li a.active-nav{color: #989898;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li ul{margin-top: 0px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 0;border-top:0px solid #000;background-color: #FFFFFF;color: black;list-style: none;list-style-type: none;display: none;position: absolute;top: 14px;height: auto;width: 220px;z-index: 999999;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li:hover ul{display: block;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li ul li{margin-top: 0px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 0;float: none;list-style: none;list-style-type: none;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li ul li a{margin-top: 0px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 6px;border-top:0px solid #000;background-color: #ffffff;z-index: 999999;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li ul li a:hover{background-color: #f4f4f4;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li ul li a:active{background-color: #4f535c;color: #ffffff;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu li ul li a.active-nav{text-decoration: underline;}
+.area.area0A360145957448AFA084046A147FEC7F h1 { font-family: "Playfair Display", serif;font-size: 60px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0A360145957448AFA084046A147FEC7F h2 { font-family: "Playfair Display", serif;font-size: 32px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0A360145957448AFA084046A147FEC7F h3 { font-family: Lato, sans-serif;font-size: 32px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0A360145957448AFA084046A147FEC7F h4 { font-family: "Open Sans", sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0A360145957448AFA084046A147FEC7F h5 { font-family: Lato, sans-serif;font-size: 12px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left;line-height: 30px;text-transform: uppercase; }
+.area.area0A360145957448AFA084046A147FEC7F h6 { font-family: Lato, sans-serif;font-size: 14px;letter-spacing: 1px;font-weight: normal;font-style: normal;text-decoration: none;color: #FF0004;background-color: transparent;text-transform: uppercase; }
+.area.area0A360145957448AFA084046A147FEC7F h6.caption { font-family: "Open Sans", sans-serif;font-size: 11px;font-weight: bold;font-style: italic;text-decoration: none;color: #000000;background-color: transparent; }
+.area.area0A360145957448AFA084046A147FEC7F p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0A360145957448AFA084046A147FEC7F a, .area.area0A360145957448AFA084046A147FEC7F a:link { font-family: "Playfair Display", serif;text-decoration: none;color: #000000; }
+.area.area0A360145957448AFA084046A147FEC7F a:visited { text-decoration: none;color: #000000; }
+.area.area0A360145957448AFA084046A147FEC7F a:hover { text-decoration: none;color: #000000; }
+.area.area0A360145957448AFA084046A147FEC7F a:active { text-decoration: none;color: #000000; }
+.area.area78DD811737184838A3B79C743552BFEF h1 { font-family: Lato, sans-serif;font-size: 60px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area78DD811737184838A3B79C743552BFEF h2 { font-family: Lato, sans-serif;font-size: 42px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area78DD811737184838A3B79C743552BFEF h3 { font-family: Lato, sans-serif;font-size: 32px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area78DD811737184838A3B79C743552BFEF h4 { font-family: "Times New Roman", serif;font-size: 18px;letter-spacing: 1px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: center;text-transform: uppercase; }
+.area.area78DD811737184838A3B79C743552BFEF h5 { font-family: Lato, sans-serif;font-size: 16px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area78DD811737184838A3B79C743552BFEF h6 { font-family: Lato, sans-serif;font-size: 14px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.area78DD811737184838A3B79C743552BFEF h6.caption { font-family: "Open Sans", sans-serif;font-size: 11px;font-weight: bold;font-style: italic;text-decoration: none;color: #8f8f8f;background-color: transparent; }
+.area.area78DD811737184838A3B79C743552BFEF p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area78DD811737184838A3B79C743552BFEF a, .area.area78DD811737184838A3B79C743552BFEF a:link { text-decoration: none;color: #516ca1; }
+.area.area78DD811737184838A3B79C743552BFEF a:visited { text-decoration: none;color: #516ca1; }
+.area.area78DD811737184838A3B79C743552BFEF a:hover { text-decoration: none;color: #6886c0; }
+.area.area78DD811737184838A3B79C743552BFEF a:active { text-decoration: none;color: #415b8e; }
+.area.area35A3CC41E16445F6B4F54D546023B34C h1 { font-family: "Playfair Display", serif;font-size: 32px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area35A3CC41E16445F6B4F54D546023B34C h2 { font-family: "Playfair Display", serif;font-size: 28px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area35A3CC41E16445F6B4F54D546023B34C h3 { font-family: "Playfair Display", serif;font-size: 22px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area35A3CC41E16445F6B4F54D546023B34C h4 { font-family: "Playfair Display", serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #9A9A9A;background-color: transparent;text-align: left; }
+.area.area35A3CC41E16445F6B4F54D546023B34C h5 { font-family: "Playfair Display", serif;font-size: 13px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area35A3CC41E16445F6B4F54D546023B34C h6 { font-family: "Playfair Display", serif;font-size: 12px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.area35A3CC41E16445F6B4F54D546023B34C h6.caption { font-family: "Open Sans", sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent; }
+.area.area35A3CC41E16445F6B4F54D546023B34C p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area35A3CC41E16445F6B4F54D546023B34C a, .area.area35A3CC41E16445F6B4F54D546023B34C a:link { text-decoration: none;color: #516ca1; }
+.area.area35A3CC41E16445F6B4F54D546023B34C a:visited { text-decoration: none;color: #516ca1; }
+.area.area35A3CC41E16445F6B4F54D546023B34C a:hover { text-decoration: none;color: #6886c0; }
+.area.area35A3CC41E16445F6B4F54D546023B34C a:active { text-decoration: none;color: #415b8e; }
+.area.areaFAEE82A6B3104EB0972814564512D650 h1 { font-family: "Playfair Display", serif;font-size: 32px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.areaFAEE82A6B3104EB0972814564512D650 h2 { font-family: "Playfair Display", serif;font-size: 28px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.areaFAEE82A6B3104EB0972814564512D650 h3 { font-family: "Playfair Display", serif;font-size: 22px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.areaFAEE82A6B3104EB0972814564512D650 h4 { font-family: "Playfair Display", serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #9A9A9A;background-color: transparent;text-align: left; }
+.area.areaFAEE82A6B3104EB0972814564512D650 h5 { font-family: "Playfair Display", serif;font-size: 13px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.areaFAEE82A6B3104EB0972814564512D650 h6 { font-family: "Playfair Display", serif;font-size: 12px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.areaFAEE82A6B3104EB0972814564512D650 h6.caption { font-family: "Open Sans", sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent; }
+.area.areaFAEE82A6B3104EB0972814564512D650 p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.areaFAEE82A6B3104EB0972814564512D650 a, .area.areaFAEE82A6B3104EB0972814564512D650 a:link { text-decoration: none;color: #516ca1; }
+.area.areaFAEE82A6B3104EB0972814564512D650 a:visited { text-decoration: none;color: #516ca1; }
+.area.areaFAEE82A6B3104EB0972814564512D650 a:hover { text-decoration: none;color: #6886c0; }
+.area.areaFAEE82A6B3104EB0972814564512D650 a:active { text-decoration: none;color: #415b8e; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 h1 { font-family: Lato, sans-serif;font-size: 60px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 h2 { font-family: "Playfair Display", serif;font-size: 36px;font-weight: normal;font-style: normal;text-decoration: none;color: #9A9A9A;background-color: transparent;text-align: center; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 h3 { font-family: "Playfair Display", serif;font-size: 22px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 h4 { font-family: "Open Sans", sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 h5 { font-family: Lato, sans-serif;font-size: 16px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 h6 { font-family: Lato, sans-serif;font-size: 14px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 h6.caption { font-family: "Open Sans", sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 a, .area.area0433DEA715DD4A27BF96616C37DF36D3 a:link { text-decoration: none;color: #516ca1; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 a:visited { text-decoration: none;color: #516ca1; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 a:hover { text-decoration: none;color: #6886c0; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 a:active { text-decoration: none;color: #415b8e; }
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu{margin-top: 0px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding-top: 0; padding-left: 0px; padding-right: 0; padding-bottom: 0px;background-color: transparent;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;text-align: left;float: left;list-style: none;list-style-type: none;width: 600px;min-height: 10px;zoom: 1;zoom: 1;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu:before{ content: " "; display: table; }
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu:after{ content: " "; display: table; clear: both; }
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li.mobile-activate{display: none;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li{margin-top: 0; margin-left: 24px; margin-right: 0; margin-bottom: 0;padding: 0;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;display: block;position: relative;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li a{background-color: transparent;font-family: Lato, sans-serif;font-size: 11px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;text-align: center;display: block;line-height: 15px;text-transform: uppercase;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li a:hover{color: #989898;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li a:active{color: #989898;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li a.active-nav{color: #989898;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li ul{margin-top: 0px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 0;border-top:0px solid #000;background-color: #FFFFFF;color: black;list-style: none;list-style-type: none;display: none;position: absolute;top: 14px;height: auto;width: 220px;z-index: 999999;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li:hover ul{display: block;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li ul li{margin-top: 0px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 0;float: none;list-style: none;list-style-type: none;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li ul li a{margin-top: 0px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 6px;border-top:0px solid #000;background-color: #ffffff;z-index: 999999;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li ul li a:hover{background-color: #f4f4f4;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li ul li a:active{background-color: #4f535c;color: #ffffff;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu li ul li a.active-nav{text-decoration: underline;}
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB h1 { font-family: "Open Sans", sans-serif;font-size: 60px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB h2 { font-family: Lato, sans-serif;font-size: 42px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB h3 { font-family: "Playfair Display", serif;font-size: 22px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB h4 { font-family: "Open Sans", sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB h5 { font-family: Lato, sans-serif;font-size: 16px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB h6 { font-family: Lato, sans-serif;font-size: 14px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB h6.caption { font-family: "Open Sans", sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB p { font-family: "Open Sans", sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent;text-align: center; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB a, .area.areaF59CF74E32CA4452AEE525A6B09AFEFB a:link { text-decoration: none;color: #516ca1; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB a:visited { text-decoration: none;color: #516ca1; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB a:hover { text-decoration: none;color: #6886c0; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB a:active { text-decoration: none;color: #415b8e; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C h1 { font-family: "Playfair Display", serif;font-size: 32px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C h2 { font-family: "Playfair Display", serif;font-size: 28px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C h3 { font-family: "Playfair Display", serif;font-size: 22px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C h4 { font-family: "Playfair Display", serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #9A9A9A;background-color: transparent;text-align: left; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C h5 { font-family: "Playfair Display", serif;font-size: 13px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C h6 { font-family: "Playfair Display", serif;font-size: 12px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C h6.caption { font-family: "Open Sans", sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C a, .area.area0E7C54EBB7D24236B4FCA72A8E8D852C a:link { text-decoration: none;color: #516ca1; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C a:visited { text-decoration: none;color: #516ca1; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C a:hover { text-decoration: none;color: #6886c0; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C a:active { text-decoration: none;color: #415b8e; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF h1 { font-family: "Playfair Display", serif;font-size: 32px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF h2 { font-family: "Playfair Display", serif;font-size: 28px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF h3 { font-family: "Playfair Display", serif;font-size: 22px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF h4 { font-family: "Playfair Display", serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #9A9A9A;background-color: transparent;text-align: left; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF h5 { font-family: "Playfair Display", serif;font-size: 13px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF h6 { font-family: "Playfair Display", serif;font-size: 12px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF h6.caption { font-family: "Open Sans", sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF a, .area.area667B0EED5774453AAFCBF7F30F3C2CEF a:link { text-decoration: none;color: #516ca1; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF a:visited { text-decoration: none;color: #516ca1; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF a:hover { text-decoration: none;color: #6886c0; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF a:active { text-decoration: none;color: #415b8e; }
+}
+@media handheld, only screen and (max-width: 767px){
+h1 { font-family: "Playfair Display", serif;font-size: 32px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+h2 { font-family: "Playfair Display", serif;font-size: 28px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+h3 { font-family: "Playfair Display", serif;font-size: 22px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+h4 { font-family: "Playfair Display", serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #9A9A9A;background-color: transparent;text-align: left; }
+h5 { font-family: "Playfair Display", serif;font-size: 13px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+h6 { font-family: "Playfair Display", serif;font-size: 12px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+h6.caption { font-family: Verdana, sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent;line-height: 14px; }
+p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left;line-height: 15px; }
+a, a:link { text-decoration: none;color: #000000; }
+a:visited { text-decoration: none;color: #000000; }
+a:hover { text-decoration: none;color: #6886c0; }
+a:active { text-decoration: none;color: #415b8e; }
+.bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.content p{undefined;undefined;}
+ul.bislr-menu, .area.bislr_footer_2 ul.bislr-menu{margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;text-decoration: none;text-align: left;float: none;list-style: none;list-style-type: none;width: auto;}
+ul.bislr-menu > li.mobile-activate, .area.bislr_footer_2 ul.bislr-menu > li.mobile-activate{margin-top: 0; margin-left: 0; margin-right: 0; margin-bottom: 0;background-color: #eee;float: none;list-style: none;list-style-type: none;display: block;position: relative;}
+ul.bislr-menu > li{margin: 0;padding: 0;float: none;}
+ul.bislr-menu > li.mobile-hide{text-decoration: none;display: none;}
+ul.bislr-menu > li a{padding: 10px;font-size: 12px;font-weight: bold;color: #c0bfbf;background-color: transparent;}
+ul.bislr-menu > li ul{margin-left: 0; margin-right: 0;background-color: transparent;display: block;position: relative;top: 0;width: 100%;z-index: 1;}
+ul.bislr-menu > li ul li a{padding-top: 10px; padding-left: 20px; padding-right: 10px; padding-bottom: 10px;background-color: transparent;z-index: 1;}
+ul.bislr-menu li ul li a.active-nav{text-decoration: underline;}
+.bislr_grid_container_outer.contact1_Outer1{margin-left: 0; margin-right: 0; margin-bottom: 0;}
+.footer{display: block;}
+.area.area4A492E5BA914461FB0A2C210CAD68C3D img{float: left;}
+.area.areaC4EDCB454B6548A3931D5E40048C6038 img{width: 100%;}
+.areaCBE17C39181549BA91D193EE01C90168{width: 100%;}
+.areaA2431A69EE5B4D1D8A3E6189762EC6DB{float: left;width: 100%;}
+.area20DD7A437C164C6AA43A12D422FA571E{float: left;width: 100%;}
+.area70D8CB5541264D0FA9D804CCDAA7E3FA{float: left;width: 100%;}
+.area20D9A1427567440FA5CB5E7EDF4168AC{width: 100%;}
+.area4791D34D14F542F4AC60585887E26177{display: none;}
+.areaB39579F88C50421F9E15D55399F51E05{height: auto !important;min-height: auto !important;max-height: auto !important;}
+.area3EBA1CE7645F4C7FAA1A49757E8555BD{float: left;width: 100%;}
+.area.area74B32F3A73AE46398963BF8398D3D9F6 img{width: 100%;}
+.area7AF9FD6ACBBC4A02809230EC51369E65{float: right;display: block;width: 100%;}
+.area11AFF9C101BC4E4E84B087D2FB7B5694{float: left;width: 100%;}
+.area522BE1400D564686BD1A971F25B7CE0A{float: left;width: 100%;}
+.area13AD4B7A39D34AE1AF70E2F4DDD9B6A6{display: none;}
+.area.aside-tags-content-editable .blog-block .blog_heading{margin-top: 0; margin-left: 0; margin-right: 0; margin-bottom: 10px;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: bold;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .post-meta{font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .post-meta .post-date{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .post-meta .post-author a{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .post-meta .post-author a:hover{font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: underline;color: darkgrey;background-color: transparent;text-align: left;}
+.area.aside-tags-content-editable .blog-block .post-meta .post-author a:active{font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: underline;color: grey;background-color: transparent;text-align: left;}
+.area.aside-tags-content-editable .blog-block .blog-image{font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .blog-content{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .post_sns{font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .pagination{font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .pagination .newer-post{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .pagination .newer-post:hover{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: underline;color: black;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .pagination .newer-post:active{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: underline;color: black;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .pagination .older-post{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;float: right;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .pagination .older-post:hover{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;float: right;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .pagination .older-post:active{margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;float: right;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .tags-header{margin-top: 8px; margin-left: 0; margin-right: 4px; margin-bottom: 10px;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-tags-content-editable .blog-block .blog-tag{margin:10px 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.home_3_e04_edit form.bislr-form{margin:0 auto;padding: 0;}
+.area.home_3_e04_edit .bislr-form .text input{background-color: #ffffff;}
+.area.home_3_e04_edit .bislr-form .textarea textarea{background-color: #ffffff;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail.grid .bislr_app.feature{margin-top: 5px; margin-left: 0; margin-right: 0; margin-bottom: 0px;padding-top: 0; padding-left: 0; padding-right: 0; padding-bottom: 0px;border-bottom:0px solid #e0e0e0;font-style: normal;text-decoration: none;background-color: transparent;text-align: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-posts-head-editable .blog_detail .title h2{margin:0px auto;font-size: 15px;font-weight: normal;color: #516CA1;}
+.area.aside-posts-head-editable .blog_detail .title h2:hover{text-decoration: underline;}
+.area.aside-posts-head-editable .blog_detail .title h2:active{text-decoration: underline;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.date{color: #8f8f8f;display: none;min-height: 20px;}
+.area.aside-posts-head-editable .blog_detail .date .post-meta{color: #8f8f8f;}
+.area.aside-posts-head-editable .blog_detail .date .post-meta .post-author a{color: inherit;}
+.area.aside-posts-head-editable .blog_detail .date .post-meta .post-author a:hover{text-decoration: underline;}
+
+.area.aside-posts-head-editable .blog_detail .date .post-meta .post-commentscount a{color: inherit;}
+.area.aside-posts-head-editable .blog_detail .date .post-meta .post-commentscount a:hover{text-decoration: underline;}
+
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap .bislr-user-image{display: none;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.content{display: none;}
+
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.tags{display: none;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.tags p{margin-top: 8px; margin-left: 0; margin-right: 4px; margin-bottom: 10px;padding: 0;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;width: 100%;min-height: auto;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.tags a{font-size: 14px;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.social-containter{margin:10px 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.social{margin:0 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;max-width: 428px;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.comments-container{margin-top: 10px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.comments{margin:0 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;width: auto;min-height: auto;max-width: 498px;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app.pagination{margin:20px 0;padding: 0;font-family: "Open Sans", sans-serif;color: #8f8f8f;display: none;width: auto;min-height: auto;zoom: 1;zoom: 1;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app.pagination:before{ content: " "; display: table; }
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app.pagination:after{ content: " "; display: table; clear: both; }
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app.pagination .newer-post{margin: 0;padding: 0;font-size: 18px;font-weight: bold;text-decoration: none;color: inherit;text-align: left;float: right;width: auto;min-height: auto;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app.pagination .newer-post:hover{text-decoration: underline;}
+
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app.pagination .older-post{font-size: 18px;font-weight: bold;color: inherit;float: left;}
+.area.aside-posts-head-editable .bislr_app_view.blog_detail .bislr_app.pagination .older-post:hover{text-decoration: underline;}
+
+.area.aside-posts-content-editable bislr_app_view.blog_detail.grid{margin:0px auto;display: none;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail.grid .bislr_app.feature{margin-top: 5px; margin-left: 0; margin-right: 0; margin-bottom: 0px;padding-top: 0; padding-left: 0; padding-right: 0; padding-bottom: 0px;border-bottom:0px solid #e0e0e0;font-style: normal;text-decoration: none;background-color: transparent;text-align: left;list-style: none;list-style-type: none;width: auto;min-height: auto;}
+.area.aside-posts-content-editable .blog_detail .title h2{margin:0px auto;font-size: 14px;color: #516CA1;display: none;}
+.area.aside-posts-content-editable .blog_detail .title h2:hover{text-decoration: underline;}
+.area.aside-posts-content-editable .blog_detail .title h2:active{text-decoration: underline;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.date{color: #8f8f8f;display: none;min-height: 20px;}
+.area.aside-posts-content-editable .blog_detail .date .post-meta{color: #8f8f8f;}
+.area.aside-posts-content-editable .blog_detail .date .post-meta .post-author a{color: inherit;}
+.area.aside-posts-content-editable .blog_detail .date .post-meta .post-author a:hover{text-decoration: underline;}
+
+.area.aside-posts-content-editable .blog_detail .date .post-meta .post-commentscount a{color: inherit;}
+.area.aside-posts-content-editable .blog_detail .date .post-meta .post-commentscount a:hover{text-decoration: underline;}
+
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap .bislr-user-image{display: none;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.content{display: none;}
+
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.tags{display: block;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.tags p{margin-top: 0px; margin-left: 0; margin-right: 4px; margin-bottom: 0px;padding: 0;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;width: 100%;min-height: auto;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.tags a{font-size: 14px;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.social-containter{margin:10px 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.social{margin:0 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;max-width: 428px;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.comments-container{margin-top: 10px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;display: none;width: auto;min-height: auto;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app .app_elem_inwrap.comments{margin:0 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;background-color: transparent;text-align: left;list-style: none;list-style-type: none;width: auto;min-height: auto;max-width: 498px;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app.pagination{margin:20px 0;padding: 0;font-family: "Open Sans", sans-serif;color: #8f8f8f;display: none;width: auto;min-height: auto;zoom: 1;zoom: 1;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app.pagination:before{ content: " "; display: table; }
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app.pagination:after{ content: " "; display: table; clear: both; }
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app.pagination .newer-post{margin: 0;padding: 0;font-size: 18px;font-weight: bold;text-decoration: none;color: inherit;text-align: left;float: right;width: auto;min-height: auto;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app.pagination .newer-post:hover{text-decoration: underline;}
+
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app.pagination .older-post{font-size: 18px;font-weight: bold;color: inherit;float: left;}
+.area.aside-posts-content-editable .bislr_app_view.blog_detail .bislr_app.pagination .older-post:hover{text-decoration: underline;}
+
+.area.area4A492E5BA914461FB0A2C210CAD68C3D h1 { font-family: "Playfair Display", serif;font-size: 60px;letter-spacing: 1px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left;text-transform: uppercase; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D h2 { font-family: Lato, sans-serif;font-size: 42px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D h3 { font-family: Lato, sans-serif;font-size: 32px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D h4 { font-family: "Open Sans", sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D h5 { font-family: Lato, sans-serif;font-size: 16px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D h6 { font-family: Lato, sans-serif;font-size: 14px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D h6.caption { font-family: "Open Sans", sans-serif;font-size: 11px;font-weight: bold;font-style: italic;text-decoration: none;color: #8f8f8f;background-color: transparent; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D p { font-family: "Open Sans", sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: #8f8f8f;background-color: transparent;text-align: left; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D a, .area.area4A492E5BA914461FB0A2C210CAD68C3D a:link { text-decoration: none;color: #516ca1; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D a:visited { text-decoration: none;color: #516ca1; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D a:hover { text-decoration: none;color: #6886c0; }
+.area.area4A492E5BA914461FB0A2C210CAD68C3D a:active { text-decoration: none;color: #415b8e; }
+.area.area020CC5867F16440591465D4E5DB987D5 h1 { font-family: "Playfair Display", serif;font-size: 42px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left;text-transform: uppercase; }
+.area.area020CC5867F16440591465D4E5DB987D5 h2 { font-family: Lato, sans-serif;font-size: 42px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area020CC5867F16440591465D4E5DB987D5 h3 { font-family: Lato, sans-serif;font-size: 32px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area020CC5867F16440591465D4E5DB987D5 h4 { font-family: "Open Sans", sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area020CC5867F16440591465D4E5DB987D5 h5 { font-family: Lato, sans-serif;font-size: 16px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area020CC5867F16440591465D4E5DB987D5 h6 { font-family: Lato, sans-serif;font-size: 14px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.area020CC5867F16440591465D4E5DB987D5 h6.caption { font-family: "Open Sans", sans-serif;font-size: 11px;font-weight: bold;font-style: italic;text-decoration: none;color: #8f8f8f;background-color: transparent; }
+.area.area020CC5867F16440591465D4E5DB987D5 p { font-family: "Open Sans", sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: #8f8f8f;background-color: transparent;text-align: left; }
+.area.area020CC5867F16440591465D4E5DB987D5 a, .area.area020CC5867F16440591465D4E5DB987D5 a:link { text-decoration: none;color: #000000; }
+.area.area020CC5867F16440591465D4E5DB987D5 a:visited { text-decoration: none;color: #000000; }
+.area.area020CC5867F16440591465D4E5DB987D5 a:hover { text-decoration: none;color: #000000; }
+.area.area020CC5867F16440591465D4E5DB987D5 a:active { text-decoration: none;color: #000000; }
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu{margin-top: 0px; margin-left: 10px; margin-right: 10px; margin-bottom: 0;padding-top: 0; padding-left: 0; padding-right: 0; padding-bottom: 0;background-color: transparent;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;text-align: left;float: left;list-style: none;list-style-type: none;width: 100%;min-height: 10px;zoom: 1;zoom: 1;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu:before{ content: " "; display: table; }
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu:after{ content: " "; display: table; clear: both; }
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li.mobile-activate{display: none;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li{margin-top: 0; margin-left: 4px; margin-right: 0; margin-bottom: 0;padding-top: 0; padding-left: 0; padding-right: 7.5px; padding-bottom: 0px;background-color: transparent;float: left;list-style: none;list-style-type: none;display: block;position: relative;width: 100%;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li a{background-color: transparent;font-family: Lato, sans-serif;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: #CDCDCD;text-align: left;display: block;line-height: 15px;width: 100%;text-transform: uppercase;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li a:hover{color: #989898;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li a:active{color: #989898;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li a.active-nav{color: #989898;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li ul{margin-top: 0px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 0;border-top:0px solid #000;background-color: #FFFFFF;color: black;list-style: none;list-style-type: none;display: none;position: absolute;top: 14px;height: auto;width: 220px;z-index: 999999;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li:hover ul{display: block;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li ul li{margin-top: 0px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 0;float: none;list-style: none;list-style-type: none;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li ul li a{margin-top: 0px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 6px;border-top:0px solid #000;background-color: #ffffff;z-index: 999999;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li ul li a:hover{background-color: #f4f4f4;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu > li ul li a:active{background-color: #4f535c;color: #ffffff;}
+.area.area1994C779E83C4648A8C24CC756C00460 ul.bislr-menu li ul li a.active-nav{text-decoration: underline;}
+.area.areaA45A8647BDC34205AF9D500A3C576C25{margin-top: 20px;width: 100%;}
+.area.area0A360145957448AFA084046A147FEC7F{float: left;width: 100%;}
+.area.area0A360145957448AFA084046A147FEC7F h1 { font-family: "Playfair Display", serif;font-size: 60px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0A360145957448AFA084046A147FEC7F h2 { font-family: "Playfair Display", serif;font-size: 32px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0A360145957448AFA084046A147FEC7F h3 { font-family: Lato, sans-serif;font-size: 32px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0A360145957448AFA084046A147FEC7F h4 { font-family: "Open Sans", sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0A360145957448AFA084046A147FEC7F h5 { font-family: Lato, sans-serif;font-size: 12px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left;line-height: 30px;text-transform: uppercase; }
+.area.area0A360145957448AFA084046A147FEC7F h6 { font-family: Lato, sans-serif;font-size: 14px;letter-spacing: 1px;font-weight: normal;font-style: normal;text-decoration: none;color: #FF0004;background-color: transparent;text-transform: uppercase; }
+.area.area0A360145957448AFA084046A147FEC7F h6.caption { font-family: "Open Sans", sans-serif;font-size: 11px;font-weight: bold;font-style: italic;text-decoration: none;color: #000000;background-color: transparent; }
+.area.area0A360145957448AFA084046A147FEC7F p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0A360145957448AFA084046A147FEC7F a, .area.area0A360145957448AFA084046A147FEC7F a:link { font-family: "Playfair Display", serif;text-decoration: none;color: #000000; }
+.area.area0A360145957448AFA084046A147FEC7F a:visited { text-decoration: none;color: #000000; }
+.area.area0A360145957448AFA084046A147FEC7F a:hover { text-decoration: none;color: #000000; }
+.area.area0A360145957448AFA084046A147FEC7F a:active { text-decoration: none;color: #000000; }
+.area.area78DD811737184838A3B79C743552BFEF h1 { font-family: Lato, sans-serif;font-size: 60px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area78DD811737184838A3B79C743552BFEF h2 { font-family: Lato, sans-serif;font-size: 42px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area78DD811737184838A3B79C743552BFEF h3 { font-family: Lato, sans-serif;font-size: 32px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area78DD811737184838A3B79C743552BFEF h4 { font-family: "Times New Roman", serif;font-size: 18px;letter-spacing: 1px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: center;text-transform: uppercase; }
+.area.area78DD811737184838A3B79C743552BFEF h5 { font-family: Lato, sans-serif;font-size: 16px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area78DD811737184838A3B79C743552BFEF h6 { font-family: Lato, sans-serif;font-size: 14px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.area78DD811737184838A3B79C743552BFEF h6.caption { font-family: "Open Sans", sans-serif;font-size: 11px;font-weight: bold;font-style: italic;text-decoration: none;color: #8f8f8f;background-color: transparent; }
+.area.area78DD811737184838A3B79C743552BFEF p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area78DD811737184838A3B79C743552BFEF a, .area.area78DD811737184838A3B79C743552BFEF a:link { text-decoration: none;color: #516ca1; }
+.area.area78DD811737184838A3B79C743552BFEF a:visited { text-decoration: none;color: #516ca1; }
+.area.area78DD811737184838A3B79C743552BFEF a:hover { text-decoration: none;color: #6886c0; }
+.area.area78DD811737184838A3B79C743552BFEF a:active { text-decoration: none;color: #415b8e; }
+.area.areaF9C519E8B388413989F41E30A1621240{float: left;width: 100%;}
+.area.area35A3CC41E16445F6B4F54D546023B34C h1 { font-family: "Playfair Display", serif;font-size: 32px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area35A3CC41E16445F6B4F54D546023B34C h2 { font-family: "Playfair Display", serif;font-size: 28px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area35A3CC41E16445F6B4F54D546023B34C h3 { font-family: "Playfair Display", serif;font-size: 22px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area35A3CC41E16445F6B4F54D546023B34C h4 { font-family: "Playfair Display", serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #9A9A9A;background-color: transparent;text-align: left; }
+.area.area35A3CC41E16445F6B4F54D546023B34C h5 { font-family: "Playfair Display", serif;font-size: 13px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area35A3CC41E16445F6B4F54D546023B34C h6 { font-family: "Playfair Display", serif;font-size: 12px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.area35A3CC41E16445F6B4F54D546023B34C h6.caption { font-family: "Open Sans", sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent; }
+.area.area35A3CC41E16445F6B4F54D546023B34C p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area35A3CC41E16445F6B4F54D546023B34C a, .area.area35A3CC41E16445F6B4F54D546023B34C a:link { text-decoration: none;color: #516ca1; }
+.area.area35A3CC41E16445F6B4F54D546023B34C a:visited { text-decoration: none;color: #516ca1; }
+.area.area35A3CC41E16445F6B4F54D546023B34C a:hover { text-decoration: none;color: #6886c0; }
+.area.area35A3CC41E16445F6B4F54D546023B34C a:active { text-decoration: none;color: #415b8e; }
+.area.areaFAEE82A6B3104EB0972814564512D650 h1 { font-family: "Playfair Display", serif;font-size: 32px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.areaFAEE82A6B3104EB0972814564512D650 h2 { font-family: "Playfair Display", serif;font-size: 28px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.areaFAEE82A6B3104EB0972814564512D650 h3 { font-family: "Playfair Display", serif;font-size: 22px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.areaFAEE82A6B3104EB0972814564512D650 h4 { font-family: "Playfair Display", serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #9A9A9A;background-color: transparent;text-align: left; }
+.area.areaFAEE82A6B3104EB0972814564512D650 h5 { font-family: "Playfair Display", serif;font-size: 13px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.areaFAEE82A6B3104EB0972814564512D650 h6 { font-family: "Playfair Display", serif;font-size: 12px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.areaFAEE82A6B3104EB0972814564512D650 h6.caption { font-family: "Open Sans", sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent; }
+.area.areaFAEE82A6B3104EB0972814564512D650 p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.areaFAEE82A6B3104EB0972814564512D650 a, .area.areaFAEE82A6B3104EB0972814564512D650 a:link { text-decoration: none;color: #516ca1; }
+.area.areaFAEE82A6B3104EB0972814564512D650 a:visited { text-decoration: none;color: #516ca1; }
+.area.areaFAEE82A6B3104EB0972814564512D650 a:hover { text-decoration: none;color: #6886c0; }
+.area.areaFAEE82A6B3104EB0972814564512D650 a:active { text-decoration: none;color: #415b8e; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3{display: none;}
+.area.area0433DEA715DD4A27BF96616C37DF36D3 h1 { font-family: Lato, sans-serif;font-size: 60px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 h2 { font-family: "Playfair Display", serif;font-size: 36px;font-weight: normal;font-style: normal;text-decoration: none;color: #9A9A9A;background-color: transparent;text-align: center; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 h3 { font-family: "Playfair Display", serif;font-size: 22px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 h4 { font-family: "Open Sans", sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 h5 { font-family: Lato, sans-serif;font-size: 16px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 h6 { font-family: Lato, sans-serif;font-size: 14px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 h6.caption { font-family: "Open Sans", sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 a, .area.area0433DEA715DD4A27BF96616C37DF36D3 a:link { text-decoration: none;color: #516ca1; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 a:visited { text-decoration: none;color: #516ca1; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 a:hover { text-decoration: none;color: #6886c0; }
+.area.area0433DEA715DD4A27BF96616C37DF36D3 a:active { text-decoration: none;color: #415b8e; }
+.area.area065B298FB3B04568B14F31C94EBCBCBE{display: none;}
+.area.areaD295EA99A6B741059EA94C3FB3F33A47{display: none;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu{margin-top: 0px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding-top: 0; padding-left: 0px; padding-right: 0; padding-bottom: 0px;background-color: transparent;font-size: 14px;font-weight: normal;font-style: normal;text-decoration: none;color: black;text-align: left;float: left;list-style: none;list-style-type: none;width: 600px;min-height: 10px;zoom: 1;zoom: 1;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu:before{ content: " "; display: table; }
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu:after{ content: " "; display: table; clear: both; }
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li.mobile-activate{display: none;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li{margin-top: 0; margin-left: 24px; margin-right: 0; margin-bottom: 0;padding: 0;background-color: transparent;text-align: left;float: left;list-style: none;list-style-type: none;display: block;position: relative;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li a{background-color: transparent;font-family: Lato, sans-serif;font-size: 11px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;text-align: center;display: block;line-height: 15px;text-transform: uppercase;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li a:hover{color: #989898;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li a:active{color: #989898;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li a.active-nav{color: #989898;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li ul{margin-top: 0px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 0;border-top:0px solid #000;background-color: #FFFFFF;color: black;list-style: none;list-style-type: none;display: none;position: absolute;top: 14px;height: auto;width: 220px;z-index: 999999;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li:hover ul{display: block;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li ul li{margin-top: 0px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 0;float: none;list-style: none;list-style-type: none;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li ul li a{margin-top: 0px; margin-left: 0; margin-right: 0; margin-bottom: 0;padding: 6px;border-top:0px solid #000;background-color: #ffffff;z-index: 999999;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li ul li a:hover{background-color: #f4f4f4;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu > li ul li a:active{background-color: #4f535c;color: #ffffff;}
+.area.areaD3799C958832435085C1F35499A92C36 ul.bislr-menu li ul li a.active-nav{text-decoration: underline;}
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB{padding:18px 0;height: auto;}
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB h1 { font-family: "Open Sans", sans-serif;font-size: 60px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB h2 { font-family: Lato, sans-serif;font-size: 42px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB h3 { font-family: "Playfair Display", serif;font-size: 22px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB h4 { font-family: "Open Sans", sans-serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB h5 { font-family: Lato, sans-serif;font-size: 16px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent;text-align: left; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB h6 { font-family: Lato, sans-serif;font-size: 14px;font-weight: bold;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB h6.caption { font-family: "Open Sans", sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB p { font-family: "Open Sans", sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent;text-align: center; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB a, .area.areaF59CF74E32CA4452AEE525A6B09AFEFB a:link { text-decoration: none;color: #516ca1; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB a:visited { text-decoration: none;color: #516ca1; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB a:hover { text-decoration: none;color: #6886c0; }
+.area.areaF59CF74E32CA4452AEE525A6B09AFEFB a:active { text-decoration: none;color: #415b8e; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C h1 { font-family: "Playfair Display", serif;font-size: 32px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C h2 { font-family: "Playfair Display", serif;font-size: 28px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C h3 { font-family: "Playfair Display", serif;font-size: 22px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C h4 { font-family: "Playfair Display", serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #9A9A9A;background-color: transparent;text-align: left; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C h5 { font-family: "Playfair Display", serif;font-size: 13px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C h6 { font-family: "Playfair Display", serif;font-size: 12px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C h6.caption { font-family: "Open Sans", sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C a, .area.area0E7C54EBB7D24236B4FCA72A8E8D852C a:link { text-decoration: none;color: #516ca1; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C a:visited { text-decoration: none;color: #516ca1; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C a:hover { text-decoration: none;color: #6886c0; }
+.area.area0E7C54EBB7D24236B4FCA72A8E8D852C a:active { text-decoration: none;color: #415b8e; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF h1 { font-family: "Playfair Display", serif;font-size: 32px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF h2 { font-family: "Playfair Display", serif;font-size: 28px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF h3 { font-family: "Playfair Display", serif;font-size: 22px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF h4 { font-family: "Playfair Display", serif;font-size: 18px;font-weight: normal;font-style: normal;text-decoration: none;color: #9A9A9A;background-color: transparent;text-align: left; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF h5 { font-family: "Playfair Display", serif;font-size: 13px;font-weight: bold;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF h6 { font-family: "Playfair Display", serif;font-size: 12px;font-weight: normal;font-style: normal;text-decoration: none;color: #4e535c;background-color: transparent; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF h6.caption { font-family: "Open Sans", sans-serif;font-size: 10px;font-weight: normal;font-style: normal;text-decoration: none;color: #B3B3B3;background-color: transparent; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF p { font-family: "Times New Roman", serif;font-size: 15px;font-weight: normal;font-style: normal;text-decoration: none;color: #000000;background-color: transparent;text-align: left; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF a, .area.area667B0EED5774453AAFCBF7F30F3C2CEF a:link { text-decoration: none;color: #516ca1; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF a:visited { text-decoration: none;color: #516ca1; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF a:hover { text-decoration: none;color: #6886c0; }
+.area.area667B0EED5774453AAFCBF7F30F3C2CEF a:active { text-decoration: none;color: #415b8e; }
+}
